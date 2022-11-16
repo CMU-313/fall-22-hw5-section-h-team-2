@@ -1,3 +1,5 @@
+import {trace} from "ui-router-ng2";
+import {trace} from "ui-router-ng2";
 /**
  * State-based routing for AngularJS 1.x
  * NOTICE: This monolithic bundle also bundles the @uirouter/core code.
